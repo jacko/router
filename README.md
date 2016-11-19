@@ -1,8 +1,9 @@
 Simple Router
 ================================================================================
-[![Latest Stable Version](https://poser.pugx.org/jacko/router/v/stable.svg)](https://packagist.org/packages/jacko/router)
-[![Total Downloads](https://poser.pugx.org/jacko/router/downloads.svg)](https://packagist.org/packages/jacko/router)
-[![License](https://poser.pugx.org/jacko/router/license.svg)](https://packagist.org/packages/jacko/router)
+[![Latest Stable Version](https://poser.pugx.org/jacko/router/v/stable)](https://packagist.org/packages/jacko/router)
+[![Latest Unstable Version](https://poser.pugx.org/jacko/router/v/unstable)](https://packagist.org/packages/jacko/router)
+[![Total Downloads](https://poser.pugx.org/jacko/router/downloads)](https://packagist.org/packages/jacko/router)
+[![License](https://poser.pugx.org/jacko/router/license)](https://packagist.org/packages/jacko/router)
 
 
 How to Install
