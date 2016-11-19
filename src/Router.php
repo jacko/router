@@ -74,7 +74,7 @@ class Router
 
         if (empty(self::$router->routes))
         {
-            throw new RuntimeException('No route');
+            throw new \RuntimeException('No route');
         }
 
         self::$router = null;
