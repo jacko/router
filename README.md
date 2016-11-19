@@ -9,7 +9,7 @@ How to Install
 --------------------------------------------------------------------------------
 Installation via composer is easy:
 
-	composer require jacko/router:*
+	composer require jacko/router:dev-master
 
 How to Use
 --------------------------------------------------------------------------------
