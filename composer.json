@@ -1,0 +1,17 @@
+{
+    "name": "jacko/router",
+    "description": "Simple router",
+    "keywords": ["simple", "router", "php"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "Jacko\\": "src"
+        }
+    },
+    "require": {}
+}
