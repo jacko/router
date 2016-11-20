@@ -1,5 +1,7 @@
 <?php namespace Jacko;
 
+use Jacko\DependencyInjection\Injector;
+
 /**
  * Class Route
  * @package Jacko
@@ -119,7 +121,8 @@ class Route
 
         list($class, $method) = explode('@', $this->action);
 
-        if ($method)
-            return call_user_func_array([new $class, $method], $this->parameters);
+        if ($method) {
+            (new Injector())->register($class, $method, $this->parameters);
+        }
     }
 }
